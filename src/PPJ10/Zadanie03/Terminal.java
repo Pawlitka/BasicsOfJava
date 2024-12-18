@@ -1,4 +1,4 @@
-package Zadanie03;
+package PPJ10.Zadanie03;
 
 public class Terminal {
     public static int[][] calculateSquares(int screenWidth, int screenHeight, int side) {

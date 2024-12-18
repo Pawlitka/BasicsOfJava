@@ -1,4 +1,4 @@
-package Zadanie01;
+package PPJ10.Zadanie01;
 
 public class Terminal {
     public static int[] tableOfDiffLengths(int[][] table) {

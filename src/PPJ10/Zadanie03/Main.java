@@ -1,4 +1,4 @@
-package Zadanie03;
+package PPJ10.Zadanie03;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Zadanie02;
+package PPJ10.Zadanie02;
 
 public class Terminal {
     public int[] method(int[] arr1, int[] arr2, int lengthDiff) {
