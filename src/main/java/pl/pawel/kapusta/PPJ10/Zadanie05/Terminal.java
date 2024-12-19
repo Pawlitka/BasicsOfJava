@@ -12,4 +12,17 @@ public class Terminal {
         return fiboR(n - 1) + fiboR( n - 2);
     }
 
+    public static int factR(int n) {
+        if(n == 0) {
+            return 1;
+        }
+        if (n == 1) {
+            return 1;
+        }
+
+        return n * factR(n - 1);
+
+
+    }
+
 }

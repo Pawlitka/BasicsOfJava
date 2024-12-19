@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println(Terminal.fiboR(5));
 
+        System.out.println(Terminal.factR(5));
+
     }
 }
